@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:id="@+id/menu_ttct"
+        app:showAsAction="always"
+        android:title="Ttct"
+        android:icon="@drawable/ic_baseline_error_outline_24"/>
+    <item android:id="@+id/menu_share"
+        app:showAsAction="always"
+        android:title="Share"
+        android:icon="@drawable/share_web_send_chain_icon"/>
+</menu>

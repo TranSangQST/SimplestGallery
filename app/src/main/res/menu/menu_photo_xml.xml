@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/menu_themeMode"
+        android:title="Mode">
+        <menu>
+            <item
+                android:id="@+id/menu_darkMode"
+                android:title="Dark Mode"/>
+            <item
+                android:id="@+id/menu_lightMode"
+                android:title="Light Mode"/>
+        </menu>
+    </item>
+    <item
+        android:id="@+id/menu_about"
+        android:title="About Us" />
+</menu>
